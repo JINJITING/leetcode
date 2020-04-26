@@ -1,0 +1,16 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "The Record of LeetCode Solutions",
+  "main": "index.js",
+  "repository": "https://github.com/JINJITING/leetcode.git",
+  "author": "jinjiting2690@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
