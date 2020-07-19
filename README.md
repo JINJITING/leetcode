@@ -7,6 +7,7 @@
 | 9   | E | Math |
 | 13  | E | Math/String |
 | 56  | M | Array/Sort |
+| 66  | E | Array |
 | 125 | E | String/Two Pointers |
 | 215 | M | Heap/Divide and Conquer |
 | 283 | E | Array/Two Pointers |
