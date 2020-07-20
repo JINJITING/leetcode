@@ -6,8 +6,10 @@
 | 1   | E | Array/Hash Table |
 | 9   | E | Math |
 | 13  | E | Math/String |
+| 35  | E | Array/Binary Search |
 | 56  | M | Array/Sort |
 | 66  | E | Array |
+| 167 | E | Array/Binary Search/Two Pointers |
 | 125 | E | String/Two Pointers |
 | 215 | M | Heap/Divide and Conquer |
 | 283 | E | Array/Two Pointers |
@@ -19,6 +21,7 @@
 | 1389 | E | Array |
 | 100352 | E | Memoization/Recursion |
 
+* Binary Search - 二分查找
 * Divide and Conquer - 分治算法
 * Geometry - 几何
 * Memoization - 记忆化
