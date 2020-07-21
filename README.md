@@ -13,6 +13,7 @@
 | 125 | E | String/Two Pointers |
 | 215 | M | Heap/Divide and Conquer |
 | 283 | E | Array/Two Pointers |
+| 292 | E | Brainteaser/Minimax |
 | 509 | E | Array |
 | 1266 | E | Geometry/Array |
 | 1295 | E | Array |
@@ -22,6 +23,7 @@
 | 100352 | E | Memoization/Recursion |
 
 * Binary Search - 二分查找
+* Brainteaser - 脑筋急转弯
 * Divide and Conquer - 分治算法
 * Geometry - 几何
 * Memoization - 记忆化
