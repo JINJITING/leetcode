@@ -9,6 +9,7 @@
 | 35  | E | Array/Binary Search |
 | 56  | M | Array/Sort |
 | 66  | E | Array |
+| 154 | H | Array/Binary Search |
 | 167 | E | Array/Binary Search/Two Pointers |
 | 125 | E | String/Two Pointers |
 | 215 | M | Heap/Divide and Conquer |
