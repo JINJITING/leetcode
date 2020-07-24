@@ -22,6 +22,7 @@
 | 1365 | E | Array/Hash Table |
 | 1389 | E | Array |
 | 1480 | E | Array |
+| 1512 | E | Array/Hash Table/Math |
 | 100352 | E | Memoization/Recursion |
 
 * Binary Search - 二分查找
