@@ -21,6 +21,7 @@
 | 1313 | E | Array |
 | 1365 | E | Array/Hash Table |
 | 1389 | E | Array |
+| 1470 | E | Array |
 | 1480 | E | Array |
 | 1512 | E | Array/Hash Table/Math |
 | 100352 | E | Memoization/Recursion |
