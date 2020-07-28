@@ -9,6 +9,7 @@
 | 35  | E | Array/Binary Search |
 | 56  | M | Array/Sort |
 | 66  | E | Array |
+| 104 | E | Depth-first Search / Tree |
 | 125 | E | Two Pointers / String |
 | 154 | H | Array/Binary Search |
 | 167 | E | Array/Binary Search/Two Pointers |
