@@ -26,10 +26,12 @@
 | 1431 | E | Array |
 | 1470 | E | Array |
 | 1480 | E | Array |
+| 1486 | E | Array / Bit Manipulation |
 | 1512 | E | Array/Hash Table/Math |
 | 100352 | E | Memoization/Recursion |
 
 * Binary Search - 二分查找
+* Bit Manipulation - 位操作
 * Brainteaser - 脑筋急转弯
 * Divide and Conquer - 分治算法
 * Dynamic Programming - 动态规划
