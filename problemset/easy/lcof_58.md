@@ -9,14 +9,6 @@
  */
 var reverseLeftWords = function(s, n) {  
   return s.substring(n)+s.substring(0,n)
-  let str=''
-  for(let i=n;i<s.length;++i) {
-    str+=s[i]
-  }
-  for(let i=0;i<n;++i) {
-    str+=s[i]
-  }
-  return str
 }
 ```
 ```js

@@ -27,11 +27,12 @@
 | 1470 | E | Array |
 | 1480 | E | Array |
 | 1486 | E | Array / Bit Manipulation |
-| 1512 | E | Array/Hash Table/Math |
-| 100352 | E | Memoization/Recursion |
-| CI.58  | E | String |
-| LCP.01 | E | - |
-| LCP.06 | E | - |
+| 1512 | E | Array / Hash Table/Math |
+| LCCI0803 | E | Array / Binary Search |
+| LCCI1611 | E | Memoization/Recursion |
+| LCOF58  | E | String |
+| LCP01 | E | - |
+| LCP06 | E | - |
 
 * Binary Search - 二分查找
 * Bit Manipulation - 位操作
@@ -44,5 +45,6 @@
 * Recursion - 递归
 
 ##### 备注
-* CI - 剑指 Offer
-* LCP - LCP
+* LCOF - 剑指 Offer 系列
+* LCCI - 面试题系列
+* LCP - LCP 系列
