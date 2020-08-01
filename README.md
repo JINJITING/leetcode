@@ -3,11 +3,8 @@
 
 ## 目录结构
 ```
-├─algorithm
-├─dataStucture
 ├─problemset
 ├───easy
 ├───hard
-├───lcp
 ├───medium
 ```

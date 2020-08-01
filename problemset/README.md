@@ -6,9 +6,11 @@
 | 1   | E | Array / Hash Table |
 | 9   | E | Math |
 | 13  | E | Math / String |
+| 14  | E | String |
 | 35  | E | Array / Binary Search |
 | 56  | M | Array / Sort |
 | 66  | E | Array |
+| 67  | E | Math / String |
 | 104 | E | Depth-first Search / Tree |
 | 125 | E | Two Pointers / String |
 | 154 | H | Array/Binary Search |
