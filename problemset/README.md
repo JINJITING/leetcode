@@ -20,6 +20,7 @@
 | 292 | E | Brainteaser / Minimax |
 | 392 | E | Greedy / Binary Search / Dynamic Programming |
 | 509 | E | Array |
+| 771 | E | Hash Table |
 | 1266 | E | Geometry / Array |
 | 1295 | E | Array |
 | 1313 | E | Array |
