@@ -19,6 +19,7 @@
 | 283 | E | Array/Two Pointers |
 | 292 | E | Brainteaser / Minimax |
 | 392 | E | Greedy / Binary Search / Dynamic Programming |
+| 415 | E | String |
 | 509 | E | Array |
 | 771 | E | Hash Table |
 | 1266 | E | Geometry / Array |
@@ -31,11 +32,11 @@
 | 1480 | E | Array |
 | 1486 | E | Array / Bit Manipulation |
 | 1512 | E | Array / Hash Table/Math |
-| LCCI0803 | E | Array / Binary Search |
-| LCCI1611 | E | Memoization/Recursion |
-| LCOF58  | E | String |
-| LCP01 | E | - |
-| LCP06 | E | - |
+| CI0803 | E | Array / Binary Search |
+| CI1611 | E | Memoization/Recursion |
+| OF58  | E | String |
+| P01 | E | - |
+| P06 | E | - |
 
 * Binary Search - 二分查找
 * Bit Manipulation - 位操作
@@ -48,6 +49,6 @@
 * Recursion - 递归
 
 ##### 备注
-* LCOF - 剑指 Offer 系列
-* LCCI - 面试题系列
-* LCP - LCP 系列
+* OF - 剑指 Offer 系列
+* CI - 面试题系列
+* P - LCP 系列
