@@ -22,6 +22,7 @@
 | 415 | E | String |
 | 509 | E | Array |
 | 771 | E | Hash Table |
+| 1108 | E | String |
 | 1266 | E | Geometry / Array |
 | 1295 | E | Array |
 | 1313 | E | Array |
