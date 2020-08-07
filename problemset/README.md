@@ -11,6 +11,7 @@
 | 56  | M | Array / Sort |
 | 66  | E | Array |
 | 67  | E | Math / String |
+| 100 | E | Tree / Depth-first Search |
 | 104 | E | Depth-first Search / Tree |
 | 125 | E | Two Pointers / String |
 | 154 | H | Array/Binary Search |
