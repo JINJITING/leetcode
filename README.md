@@ -1,10 +1,60 @@
-# leetcode
-算法、数据结构以及 LeetCode 题解。
+# LeetCode
+记录 LeetCode 的解题、思路。  
 
-## 目录结构
-```
-├─problemset
-├───easy
-├───hard
-├───medium
-```
+| 序号 | 难度 | 题名 | 标签 |
+|:---:|:---:|:-----|:----|
+| 1   | E | 两数之和 | Array/Hash Table |
+| 9   | E | 回文数 | Math |
+| 13  | E | 罗马数字转整数 | Math/String |
+| 14  | E | 最长公共前缀 | String |
+| 35  | E | 搜索插入位置 | Array/Binary Search |
+| 56  | M | 合并区间 | Array/Sort |
+| 66  | E | 加一 | Array |
+| 67  | E | 二进制求和 | Math/String |
+| 100 | E | 相同的树 | Tree/Depth-first Search |
+| 104 | E | 二叉树的最大深度 | Depth-first Search/Tree |
+| 125 | E | 验证回文串 | Two Pointers/String |
+| 154 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
+| 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
+| 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
+| 283 | E | 移动零 | Array/Two Pointers |
+| 292 | E | Nim 游戏 | Brainteaser/Minimax |
+| 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
+| 415 | E | 字符串相加 | String |
+| 509 | E | 斐波那契数 | Array |
+| 771 | E | 宝石与石头 | Hash Table |
+| 1108 | E | IP 地址无效化 | String |
+| 1266 | E | 访问所有点的最小时间 | Geometry/Array |
+| 1281 | E | 整数的各位积和之差 | Math |
+| 1290 | E | 二进制链表转整数 | Bit Manipulation/Linked List |
+| 1295 | E | 统计位数为偶数的数字 | Array |
+| 1313 | E | 解压缩编码列表 | Array |
+| 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
+| 1365 | E | 有多少小于当前数字的数字 | Array/Hash Table |
+| 1389 | E | 按既定顺序创建目标数组 | Array |
+| 1431 | E | 拥有最多糖果的孩子 | Array |
+| 1450 | E | 在既定时间做作业的学生人数 | Array |
+| 1470 | E | 重新排列数组 | Array |
+| 1480 | E | 一维数组的动态和 | Array |
+| 1486 | E | 数组异或操作 | Array/Bit Manipulation |
+| 1512 | E | 好数对的数目 | Array/Hash Table/Math |
+| CI0803 | E | 魔术索引 | Array/Binary Search |
+| CI1611 | E | 跳水板 | Memoization/Recursion |
+| OF58  | E | II. 左旋转字符串 | String |
+| P01 | E | 猜数字 | - |
+| P06 | E | 拿硬币 | - |
+
+* Binary Search - 二分查找
+* Bit Manipulation - 位操作
+* Brainteaser - 脑筋急转弯
+* Divide and Conquer - 分治算法
+* Dynamic Programming - 动态规划
+* Geometry - 几何
+* Greedy - 贪心算法
+* Memoization - 记忆化
+* Recursion - 递归
+
+##### 备注
+* OF - 剑指 Offer 系列
+* CI - 面试题系列
+* P - LCP 系列
