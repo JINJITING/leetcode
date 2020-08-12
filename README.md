@@ -42,6 +42,7 @@
 | CI0803 | E | 魔术索引 | Array/Binary Search |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | OF05  | E | 替换空格 | String |
+| OF06  | E | 从尾到头打印链表 | Linked List |
 | OF58  | E | II. 左旋转字符串 | String |
 | P01 | E | 猜数字 | - |
 | P06 | E | 拿硬币 | - |
