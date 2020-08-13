@@ -30,6 +30,7 @@
 | 1290 | E | 二进制链表转整数 | Bit Manipulation/Linked List |
 | 1295 | E | 统计位数为偶数的数字 | Array |
 | 1313 | E | 解压缩编码列表 | Array |
+| 1323 | E | 6 和 9 组成的最大数字 | Math |
 | 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
 | 1365 | E | 有多少小于当前数字的数字 | Array/Hash Table |
 | 1389 | E | 按既定顺序创建目标数组 | Array |
