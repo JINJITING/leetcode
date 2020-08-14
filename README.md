@@ -7,6 +7,7 @@
 | 9   | E | 回文数 | Math |
 | 13  | E | 罗马数字转整数 | Math/String |
 | 14  | E | 最长公共前缀 | String |
+| 20  | E | 有效的括号 | Stack/String |
 | 35  | E | 搜索插入位置 | Array/Binary Search |
 | 56  | M | 合并区间 | Array/Sort |
 | 66  | E | 加一 | Array |
