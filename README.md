@@ -5,6 +5,7 @@
 |:---:|:---:|:-----|:----|
 | 1   | E | 两数之和 | Array/Hash Table |
 | 9   | E | 回文数 | Math |
+| 11  | M | 盛最多水的容器 | Array/Two Pointers |
 | 13  | E | 罗马数字转整数 | Math/String |
 | 14  | E | 最长公共前缀 | String |
 | 20  | E | 有效的括号 | Stack/String |
