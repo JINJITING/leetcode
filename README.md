@@ -9,6 +9,7 @@
 | 13  | E | 罗马数字转整数 | Math/String |
 | 14  | E | 最长公共前缀 | String |
 | 20  | E | 有效的括号 | Stack/String |
+| 26  | E | 删除排序数组中的重复项 | Array/Two Pointers |
 | 35  | E | 搜索插入位置 | Array/Binary Search |
 | 56  | M | 合并区间 | Array/Sort |
 | 66  | E | 加一 | Array |
