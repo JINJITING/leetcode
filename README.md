@@ -33,6 +33,7 @@
 | 1290 | E | 二进制链表转整数 | Bit Manipulation/Linked List |
 | 1295 | E | 统计位数为偶数的数字 | Array |
 | 1299 | E | 将每个元素替换为右侧最大元素 | Array |
+| 1304 | E | 和为零的N个唯一整数 | Array |
 | 1313 | E | 解压缩编码列表 | Array |
 | 1323 | E | 6 和 9 组成的最大数字 | Math |
 | 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
