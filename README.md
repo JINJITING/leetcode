@@ -30,6 +30,7 @@
 | 771 | E | 宝石与石头 | Hash Table |
 | 832 | E | 翻转图像 | Array |
 | 1108 | E | IP 地址无效化 | String |
+| 1200 | E | 最小绝对差 | Array |
 | 1266 | E | 访问所有点的最小时间 | Geometry/Array |
 | 1281 | E | 整数的各位积和之差 | Math |
 | 1290 | E | 二进制链表转整数 | Bit Manipulation/Linked List |
