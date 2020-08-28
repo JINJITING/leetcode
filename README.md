@@ -30,7 +30,7 @@
 | 771 | E | 宝石与石头 | Hash Table |
 | 832 | E | 翻转图像 | Array |
 | 1108 | E | IP 地址无效化 | String |
-| 1200 | E | 最小绝对差 | Array |
+| 1200* | E | 最小绝对差 | Array |
 | 1266 | E | 访问所有点的最小时间 | Geometry/Array |
 | 1281 | E | 整数的各位积和之差 | Math |
 | 1290 | E | 二进制链表转整数 | Bit Manipulation/Linked List |
@@ -51,6 +51,7 @@
 | 1480 | E | 一维数组的动态和 | Array |
 | 1486 | E | 数组异或操作 | Array/Bit Manipulation |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
+| CI0102* | E | 判定是否互为字符重排 | Array/String |
 | CI0803 | E | 魔术索引 | Array/Binary Search |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | OF05 | E | 替换空格 | String |
