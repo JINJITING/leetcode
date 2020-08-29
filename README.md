@@ -22,6 +22,7 @@
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 283 | E | 移动零 | Array/Two Pointers |
+| 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
 | 292 | E | Nim 游戏 | Brainteaser/Minimax |
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 415 | E | 字符串相加 | String |
