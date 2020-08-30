@@ -52,6 +52,7 @@
 | 1480 | E | 一维数组的动态和 | Array |
 | 1486 | E | 数组异或操作 | Array/Bit Manipulation |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
+| 1534* | E | 统计好三元组 | Array |
 | CI0102* | E | 判定是否互为字符重排 | Array/String |
 | CI0803 | E | 魔术索引 | Array/Binary Search |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
