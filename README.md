@@ -27,6 +27,7 @@
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 415 | E | 字符串相加 | String |
 | 509 | E | 斐波那契数 | Array |
+| 561* | E | 数组拆分 I | Array |
 | 696 | E | 计数二进制子串 | String |
 | 771 | E | 宝石与石头 | Hash Table |
 | 832 | E | 翻转图像 | Array |
