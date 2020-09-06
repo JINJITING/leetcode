@@ -59,6 +59,7 @@
 | 1534* | E | 统计好三元组 | Array |
 | CI0101 | E | 判定字符是否唯一 | Array |
 | CI0102* | E | 判定是否互为字符重排 | Array/String |
+| CI0108* | M | 零矩阵 | Array |
 | CI0803 | E | 魔术索引 | Array/Binary Search |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | OF05 | E | 替换空格 | String |
