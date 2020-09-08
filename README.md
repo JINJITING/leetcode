@@ -20,6 +20,7 @@
 | 125 | E | 验证回文串 | Two Pointers/String |
 | 154 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
+| 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 283 | E | 移动零 | Array/Two Pointers |
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
