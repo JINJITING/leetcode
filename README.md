@@ -59,6 +59,7 @@
 | 1486 | E | 数组异或操作 | Array/Bit Manipulation |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
 | 1534* | E | 统计好三元组 | Array |
+| 1572* | E | 矩阵对角线元素的和 | Array |
 | CI0101 | E | 判定字符是否唯一 | Array |
 | CI0102* | E | 判定是否互为字符重排 | Array/String |
 | CI0108* | M | 零矩阵 | Array |
