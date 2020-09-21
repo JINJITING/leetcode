@@ -35,6 +35,7 @@
 | 771 | E | 宝石与石头 | Hash Table |
 | 832 | E | 翻转图像 | Array |
 | 977* | E | 有序数组的平方 | Array/Two Pointers |
+| 1051* | E | 高度检查器 | Array |
 | 1108 | E | IP 地址无效化 | String |
 | 1200* | E | 最小绝对差 | Array |
 | 1266 | E | 访问所有点的最小时间 | Geometry/Array |
