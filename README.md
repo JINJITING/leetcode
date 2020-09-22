@@ -58,6 +58,7 @@
 | 1460* | E | 通过翻转子数组使两个数组相等 | Array |
 | 1464 | E | 数组中两元素的最大乘积 | Array |
 | 1470 | E | 重新排列数组 | Array |
+| 1475* | E | 商品折扣后的最终价格 | Array |
 | 1480 | E | 一维数组的动态和 | Array |
 | 1486 | E | 数组异或操作 | Array/Bit Manipulation |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
