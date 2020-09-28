@@ -63,6 +63,7 @@
 | 1475* | E | 商品折扣后的最终价格 | Array |
 | 1480 | E | 一维数组的动态和 | Array |
 | 1486 | E | 数组异或操作 | Array/Bit Manipulation |
+| 1491` | E | 去掉最低工资和最高工资后的工资平均值 | Array/Sort |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
 | 1534* | E | 统计好三元组 | Array |
 | 1572* | E | 矩阵对角线元素的和 | Array |
