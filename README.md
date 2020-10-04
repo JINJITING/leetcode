@@ -76,6 +76,7 @@
 | CI0108* | M | 零矩阵 | Array |
 | CI0803 | E | 魔术索引 | Array/Binary Search |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
+| CI1704* | E | 消失的数字 | Missing Number | Array/Bit Manipulation/Math |
 | OF03 | E | 数组中重复的数字 | Array/Hash Table |
 | OF05 | E | 替换空格 | String |
 | OF06 | E | 从尾到头打印链表 | Linked List |
