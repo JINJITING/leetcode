@@ -18,6 +18,7 @@
 | 67  | E | 二进制求和 | Math/String |
 | 100 | E | 相同的树 | Tree/Depth-first Search |
 | 104 | E | 二叉树的最大深度 | Depth-first Search/Tree |
+| 118* | E | 杨辉三角 | Array |
 | 122 | E | 买卖股票的最佳时机 II | Best Time to Buy and Sell Stock II | Array/Greedy |
 | 125 | E | 验证回文串 | Two Pointers/String |
 | 154 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
