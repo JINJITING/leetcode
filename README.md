@@ -56,6 +56,7 @@
 | 1313 | E | 解压缩编码列表 | Array |
 | 1323 | E | 6 和 9 组成的最大数字 | Math |
 | 1337 | E | 方阵中战斗力最弱的 K 行 | Array |
+| 1338* | M | 数组大小减半 | Array/Greedy |
 | 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
 | 1351 | E | 统计有序矩阵中的负数 | Array/Binary Search |
 | 1365 | E | 有多少小于当前数字的数字 | Array/Hash Table |
