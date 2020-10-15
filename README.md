@@ -27,6 +27,8 @@
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
+| 217 | E | 存在重复元素 | Array/Hash Table |
+| 219* | E | 存在重复元素 II | Array/Hash Table |
 | 283 | E | 移动零 | Array/Two Pointers |
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
 | 292 | E | Nim 游戏 | Brainteaser/Minimax |
