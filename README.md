@@ -8,7 +8,7 @@
 | 11  | M | 盛最多水的容器 | Array/Two Pointers |
 | 13  | E | 罗马数字转整数 | Math/String |
 | 14  | E | 最长公共前缀 | String |
-| 15* | E | 三数之和 | Array/Two Pointers |
+| 15* | M | 三数之和 | Array/Two Pointers |
 | 20  | E | 有效的括号 | Stack/String |
 | 26  | E | 删除排序数组中的重复项 | Array/Two Pointers |
 | 27* | E | 移除元素 | Array/Two Pointers |
@@ -38,6 +38,7 @@
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
+| 448* | E | 找到所有数组中消失的数字 | Array |
 | 509 | E | 斐波那契数 | Array |
 | 561* | E | 数组拆分 I | Array |
 | 566* | E | 重塑矩阵 | Array |
