@@ -48,6 +48,7 @@
 | 665* | E | 非递减数列 | Array |
 | 696 | E | 计数二进制子串 | String |
 | 697* | E | 数组的度 | Array |
+| 704 | E | 二分查找 | Binary Search |
 | 724* | E | 寻找数组的中心索引 | Array |
 | 747* | E | 至少是其他数字两倍的最大数 | Array |
 | 766* | E | 托普利茨矩阵 | Array |
@@ -102,6 +103,7 @@
 | OF05 | E | 替换空格 | String |
 | OF06 | E | 从尾到头打印链表 | Linked List |
 | OF17 | E | 打印从1到最大的 n 位数 | Math |
+| OF53* | E | 0～n-1中缺失的数字 | Array/Binary Search |
 | OF58 | E | II. 左旋转字符串 | String |
 | OF64 | M | 求1+2+…+n | - |
 | P01 | E | 猜数字 | - |
