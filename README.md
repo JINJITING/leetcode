@@ -37,6 +37,7 @@
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
 | 292 | E | Nim 游戏 | Brainteaser/Minimax |
 | 319 | M | 灯泡开关 | Brainteaser/Math |
+| 349* | E | 两个数组的交集 | Binary Search/Hash Table/Sort/Two Pointers |
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
