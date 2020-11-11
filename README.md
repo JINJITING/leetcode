@@ -65,6 +65,7 @@
 | 922* | E | 按奇偶排序数组 II | Array/Sort |
 | 941* | E | 有效的山脉数组 | Array |
 | 977* | E | 有序数组的平方 | Array/Two Pointers |
+| 985* | E | 查询后的偶数和 | Array |
 | 1051* | E | 高度检查器 | Array |
 | 1108 | E | IP 地址无效化 | String |
 | 1122` | E | 数组的相对排序 | Array/Sort |
