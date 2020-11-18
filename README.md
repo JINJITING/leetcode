@@ -105,6 +105,7 @@
 | CI0102* | E | 判定是否互为字符重排 | Array/String |
 | CI0108* | M | 零矩阵 | Array |
 | CI0803 | E | 魔术索引 | Array/Binary Search |
+| CI0805* | M | 递归乘法 | Recursion |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | CI1615* | E | 珠玑妙算 | Array |
 | CI1704* | E | 消失的数字 | Missing Number | Array/Bit Manipulation/Math |
