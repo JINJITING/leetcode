@@ -12,8 +12,9 @@
 | 20  | E | 有效的括号 | Stack/String |
 | 26  | E | 删除排序数组中的重复项 | Array/Two Pointers |
 | 27* | E | 移除元素 | Array/Two Pointers |
+| 34/OF53I* | M | 在排序数组中查找元素的第一个和最后一个位置 | Array/Binary Search |
 | 35  | E | 搜索插入位置 | Array/Binary Search |
-| 54* | M | 螺旋矩阵 | Array |
+| 54/OF29* | M | 螺旋矩阵 | Array |
 | 56  | M | 合并区间 | Array/Sort |
 | 57* | H | 插入区间 | Array/Sort |
 | 66  | E | 加一 | Array |
@@ -27,7 +28,7 @@
 | 121* | E | 买卖股票的最佳时机 | Array/Dynamic Programming |
 | 122* | E | 买卖股票的最佳时机 II | Array/Greedy |
 | 125 | E | 验证回文串 | Two Pointers/String |
-| 154 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
+| 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
