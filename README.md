@@ -62,6 +62,7 @@
 | 771 | E | 宝石与石头 | Hash Table |
 | 830* | E | 较大分组的位置 | Array |
 | 832 | E | 翻转图像 | Array |
+| 867 | E | 转置矩阵 | Array |
 | 896* | E | 单调数列 | Array |
 | 905* | E | 按奇偶排序数组 | Array |
 | 922* | E | 按奇偶排序数组 II | Array/Sort |
