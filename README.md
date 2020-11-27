@@ -88,6 +88,7 @@
 | 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
 | 1351 | E | 统计有序矩阵中的负数 | Array/Binary Search |
 | 1365 | E | 有多少小于当前数字的数字 | Array/Hash Table |
+| 1380* | E | 矩阵中的幸运数 | Array |
 | 1385 | E | 两个数组间的距离值 | Array |
 | 1389 | E | 按既定顺序创建目标数组 | Array |
 | 1394* | E | 找出数组中的幸运数 | Array |
