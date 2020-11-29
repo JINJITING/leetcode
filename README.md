@@ -104,6 +104,7 @@
 | 1503* | M | 所有蚂蚁掉下来前的最后一刻 | Array/Brainteaser |
 | 1512 | E | 好数对的数目 | Array/Hash Table/Math |
 | 1534* | E | 统计好三元组 | Array |
+| 1539* | E | 第 k 个缺失的正整数 | Array/Hash Table |
 | 1550* | E | 存在连续三个奇数的数组 | Array |
 | 1572* | E | 矩阵对角线元素的和 | Array |
 | 1608* | E | 特殊数组的特征值 | Array |
