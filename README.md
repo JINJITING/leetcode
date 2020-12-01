@@ -40,6 +40,7 @@
 | 283* | E | 移动零 | Array/Two Pointers |
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
 | 292 | E | Nim 游戏 | Brainteaser/Minimax |
+| 303* | E | 区域和检索 - 数组不可变 | Dynamic Programming |
 | 319 | M | 灯泡开关 | Brainteaser/Math |
 | 322* | M | 零钱兑换 | Dynamic Programming |
 | 349* | E | 两个数组的交集 | Binary Search/Hash Table/Sort/Two Pointers |
