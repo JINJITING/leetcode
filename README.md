@@ -47,6 +47,7 @@
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
+| 422* | M | 数组中重复的数据 | Array |
 | 448* | E | 找到所有数组中消失的数字 | Array |
 | 485* | E | 最大连续1的个数 | Array |
 | 509 | E | 斐波那契数 | Array |
