@@ -14,6 +14,7 @@
 | 27* | E | 移除元素 | Array/Two Pointers |
 | 34/OF53I* | M | 在排序数组中查找元素的第一个和最后一个位置 | Array/Binary Search |
 | 35  | E | 搜索插入位置 | Array/Binary Search |
+| 49  | M | 字母异位词分组 | Hash Table/String |
 | 54/OF29* | M | 螺旋矩阵 | Array |
 | 56  | M | 合并区间 | Array/Sort |
 | 57* | H | 插入区间 | Array/Sort |
