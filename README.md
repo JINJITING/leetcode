@@ -40,6 +40,7 @@
 | 268* | E | 丢失的数字 | Array/Bit Manipulation/Math |
 | 283* | E | 移动零 | Array/Two Pointers |
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
+| 290 | E | 单词规律 | Hash Table |
 | 292 | E | Nim 游戏 | Brainteaser/Minimax |
 | 303* | E | 区域和检索 - 数组不可变 | Dynamic Programming |
 | 319 | M | 灯泡开关 | Brainteaser/Math |
