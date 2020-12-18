@@ -46,6 +46,7 @@
 | 319 | M | 灯泡开关 | Brainteaser/Math |
 | 322* | M | 零钱兑换 | Dynamic Programming |
 | 349* | E | 两个数组的交集 | Binary Search/Hash Table/Sort/Two Pointers |
+| 389 | E | 找不同 | Bit Manipulation/Hash Table |
 | 392 | E | 判断子序列 | Greedy/Binary Search/Dynamic Programming |
 | 414* | E | 第三大的数 | Array |
 | 415 | E | 字符串相加 | String |
