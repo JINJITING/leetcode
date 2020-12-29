@@ -129,6 +129,7 @@
 | CI0805* | M | 递归乘法 | Recursion |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | CI1615* | E | 珠玑妙算 | Array |
+| CI1701 | E | 不用加号的加法 | Bit Manipulation |
 | CI1704* | E | 消失的数字 | Missing Number | Array/Bit Manipulation/Math |
 | CI1710* | E | 主要元素 | Find Majority Element | Array/Bit Manipulation/Divide and Conquer |
 | OF03 | E | 数组中重复的数字 | Array/Hash Table |
