@@ -83,6 +83,7 @@
 | 977* | E | 有序数组的平方 | Array/Two Pointers |
 | 985* | E | 查询后的偶数和 | Array |
 | 989 | E | 数组形式的整数加法 | Array |
+| 999 | E | 可以被一步捕获的棋子数 | Array |
 | 1051* | E | 高度检查器 | Array |
 | 1108 | E | IP 地址无效化 | String |
 | 1122` | E | 数组的相对排序 | Array/Sort |
