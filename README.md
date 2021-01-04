@@ -100,6 +100,7 @@
 | 1337 | E | 方阵中战斗力最弱的 K 行 | Array |
 | 1338* | M | 数组大小减半 | Array/Greedy |
 | 1342 | E | 将数字变成 0 的操作次数 | Bit Manipulation |
+| 1344 | M | 时钟指针的夹角 | Math |
 | 1351 | E | 统计有序矩阵中的负数 | Array/Binary Search |
 | 1365 | E | 有多少小于当前数字的数字 | Array/Hash Table |
 | 1380* | E | 矩阵中的幸运数 | Array |
