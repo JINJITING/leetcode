@@ -40,7 +40,7 @@
 | 228 | E | 汇总区间 | Array |
 | 238* | M | 除自身以外数组的乘积 | Array |
 | 240* | M | 搜索二维矩阵 II | Binary Search/Divide and Conquer |
-| 258 | E | 各位相加 | Math |
+| 258! | E | 各位相加 | Math |
 | 268* | E | 丢失的数字 | Array/Bit Manipulation/Math |
 | 283* | E | 移动零 | Array/Two Pointers |
 | 287 | M | 寻找重复数 | Array/Binary Search/Two Pointers |
@@ -126,6 +126,7 @@
 | 1539* | E | 第 k 个缺失的正整数 | Array/Hash Table |
 | 1550* | E | 存在连续三个奇数的数组 | Array |
 | 1572* | E | 矩阵对角线元素的和 | Array |
+| 1656 | E | 设计有序流 | Array/Design |
 | 1608* | E | 特殊数组的特征值 | Array |
 | 1672 | E | 最富有客户的资产总量 | Array |
 | 1678 | E | 设计 Goal 解析器 | String |
