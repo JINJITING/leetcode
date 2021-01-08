@@ -33,6 +33,7 @@
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
+| 189* | E | 旋转数组 | Array |
 | 205 | E | 同构字符串 | Hash Table |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 217 | E | 存在重复元素 | Array/Hash Table |
