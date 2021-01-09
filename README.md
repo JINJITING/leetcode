@@ -33,7 +33,7 @@
 | 154/OF11 | H | 寻找旋转排序数组中的最小值 II | Array/Binary Search |
 | 167 | E | 两数之和 II - 输入有序数组 | Array/Binary Search/Two Pointers |
 | 169* | E | 多数元素 | Array/Bit Manipulation/Divide and Conquer |
-| 189* | E | 旋转数组 | Array |
+| 189* | M | 旋转数组 | Array |
 | 205 | E | 同构字符串 | Hash Table |
 | 215 | M | 数组中的第 K 个最大元素 | Heap/Divide and Conquer |
 | 217 | E | 存在重复元素 | Array/Hash Table |
@@ -138,6 +138,7 @@
 | CI0805* | M | 递归乘法 | Recursion |
 | CI1611 | E | 跳水板 | Memoization/Recursion |
 | CI1615* | E | 珠玑妙算 | Array |
+| CI1620 | M | T9 键盘 | Array |
 | CI1701 | E | 不用加号的加法 | Bit Manipulation |
 | CI1704* | E | 消失的数字 | Missing Number | Array/Bit Manipulation/Math |
 | CI1710* | E | 主要元素 | Find Majority Element | Array/Bit Manipulation/Divide and Conquer |
