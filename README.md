@@ -89,6 +89,7 @@
 | 989 | E | 数组形式的整数加法 | Array |
 | 999 | E | 可以被一步捕获的棋子数 | Array |
 | 1051* | E | 高度检查器 | Array |
+| 1013* | E |  将数组分成和相等的三个部分 | Array |
 | 1108 | E | IP 地址无效化 | String |
 | 1122` | E | 数组的相对排序 | Array/Sort |
 | 1184* | E | 公交站间的距离 | Array |
@@ -156,6 +157,7 @@
 * Binary Search - 二分查找
 * Bit Manipulation - 位操作
 * Brainteaser - 脑筋急转弯
+* Disjoint Sets - 并查集
 * Divide and Conquer - 分治算法
 * Dynamic Programming - 动态规划
 * Geometry - 几何
